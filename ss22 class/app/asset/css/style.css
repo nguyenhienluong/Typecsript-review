@@ -1,0 +1,12 @@
+.ghe {
+    width: 30px;
+    background: silver;
+    cursor: pointer;
+}
+.gheDaDat {
+    background: red;
+    cursor: no-drop;
+}
+.gheDuocDat {
+    background: greenyellow
+}

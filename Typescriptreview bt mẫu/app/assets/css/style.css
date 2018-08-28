@@ -1,0 +1,15 @@
+.ghe{
+    width: 50px;
+    background: #383636;
+    text-align: center;
+    margin: 5px;
+    cursor: pointer;
+    color: #fff;
+}
+.gheDaDat{
+    background: rgb(235, 158, 158);
+    cursor: no-drop;
+}
+.gheDuocDat{
+    background: #45e040; 
+}
